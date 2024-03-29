@@ -1,0 +1,15 @@
+*{
+    color: #C98234;
+    background-color: #32383D;
+    text-align: center;
+   font-size: 46px;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
